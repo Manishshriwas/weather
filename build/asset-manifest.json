@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Manishshriwas/wheather-update.git/static/css/main.56f2d992.css",
+    "main.js": "/Manishshriwas/wheather-update.git/static/js/main.08990c20.js",
+    "static/media/sunset.jpg": "/Manishshriwas/wheather-update.git/static/media/sunset.ab19eb6fc568e5c0ff4d.jpg",
+    "index.html": "/Manishshriwas/wheather-update.git/index.html",
+    "main.56f2d992.css.map": "/Manishshriwas/wheather-update.git/static/css/main.56f2d992.css.map",
+    "main.08990c20.js.map": "/Manishshriwas/wheather-update.git/static/js/main.08990c20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56f2d992.css",
+    "static/js/main.08990c20.js"
+  ]
+}
